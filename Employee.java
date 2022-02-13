@@ -86,7 +86,10 @@ class Employee
 
     {
 
-        System.out.println(name+" "+addr+" "+phone+" "+age);
+        System.out.println(name);
+        System.out.println(addr);
+        System.out.println(phone);
+        System.out.println(age);
 
     }
 
